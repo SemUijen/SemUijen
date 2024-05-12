@@ -25,6 +25,7 @@ but that's not all—give me a tricky coding problem, and I'm in my element!
 <img align="left" alt="GitHub" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br />
+<br />
 
 <details open> 
   <summary><h2>📊 Stats </h2></summary>
