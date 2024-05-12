@@ -6,8 +6,8 @@ but that's not all give me a tricky coding problem, and I'm in my element!
 ## 📕 Personal Projects
 
   <p align="left">
-    <a href="https://github.com/SemUijen/SREX_GNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=SREX_GNN&hide_border=true&show_icons=false&show_description=True" alt="SREX-GNN"></a>
-    <a href="https://github.com/SemUijen/AdventofCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=AdventofCode&hide_border=true&show_icons=false&show_description=True" alt="AdventofCode"></a>
+    <a style="padding-right:15px;" href="https://github.com/SemUijen/SREX_GNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=SREX_GNN&&show_icons=false&show_description=True" alt="SREX-GNN"></a>
+    <a href="https://github.com/SemUijen/AdventofCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=AdventofCode&&show_icons=false&show_description=True" alt="AdventofCode"></a>
   </p>
 
 ## Languages and Tools
