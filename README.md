@@ -5,6 +5,8 @@ but that's not all give me a tricky coding problem, and I'm in my element!
 
 ## 📕 Personal Projects
 
+[comment]: https://api.github.com/repos/SemUijen/SREX_GNN/languages
+
   <p align="left">
     <a style="padding-right:15px;" href="https://github.com/SemUijen/SREX_GNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=SREX_GNN&&show_icons=false&show_description=True" alt="SREX-GNN">
     </a>
