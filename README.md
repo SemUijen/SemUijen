@@ -44,7 +44,13 @@ but that's not all give me a tricky coding problem, and I'm in my element!
 
 ## 📊 Stats
 
-  <p align="center">
+<p align="center">
+  <a href="https://github.com/SemUijen/?tab=repositories">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SemUijen&count_private=True&show_icons=true&hide=contribs,prs"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/SemUijen/?tab=repositories">
     <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=SemUijen&layout=compact&exclude_repo=SemUijen.github.io&hide=jupyter%20notebook"/>
   </a>
