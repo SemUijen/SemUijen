@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Sem
+## Hi there 👋 I'm Sem
 
-I'm all about building coding projects. I've got a passion for Artificial Intelligence, Data Engineering, and MLOps,
+I'm all about building projects. I've got a passion for Artificial Intelligence, Data Engineering, and MLOps,  
 but that's not all give me a tricky coding problem, and I'm in my element!
 
 ## 📕 Personal Projects
