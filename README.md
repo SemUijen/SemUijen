@@ -16,7 +16,7 @@ but that's not all give me a tricky coding problem, and I'm in my element!
 :whale:
 ## Languages and Tools
 
-### :1234: Languages
+### :computer: Languages
 
 <img align="left" alt="Python" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 <img align="left" alt="C++" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
