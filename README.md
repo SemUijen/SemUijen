@@ -13,10 +13,10 @@ but that's not all give me a tricky coding problem, and I'm in my element!
     <a href="https://github.com/SemUijen/AdventofCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=AdventofCode&&show_icons=false&show_description=True" alt="AdventofCode">
     </a>
   </p>
-
+:whale:
 ## Languages and Tools
 
-### Languages
+### :1234: Languages
 
 <img align="left" alt="Python" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
 <img align="left" alt="C++" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
