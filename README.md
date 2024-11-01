@@ -1,16 +1,11 @@
 ## Hi there 👋 I'm Sem
 
-I'm all about coding projects. I've got a passion for Artificial Intelligence, Data Engineering, and MLOps,  
-but that's not all give me a tricky coding problem, and I'm in my element!
-
 ## 📕 Personal Projects
 
 [comment]: https://api.github.com/repos/SemUijen/SREX_GNN/languages
 
   <p align="left">
     <a style="padding-right:15px;" href="https://github.com/SemUijen/SREX_GNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=SREX_GNN&&show_icons=false&show_description=True" alt="SREX-GNN">
-    </a>
-    <a href="https://github.com/SemUijen/AdventofCode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SemUijen&repo=AdventofCode&&show_icons=false&show_description=True" alt="AdventofCode">
     </a>
   </p>
 
