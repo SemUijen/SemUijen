@@ -56,6 +56,6 @@
 
 <p align="center">
   <a href="https://github.com/SemUijen/?tab=repositories">
-    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=SemUijen&layout=compact&exclude_repo=SemUijen.github.io&hide=jupyter%20notebook"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemUijen&layout=compact&exclude_repo=SemUijen.github.io&hide=jupyter%20notebook"/>
   </a>
 </p>
